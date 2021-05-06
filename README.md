@@ -1,5 +1,9 @@
 Vending Machine view created using Java, utilizing Swing.
 
+To run: compile, and run A05Main.java
+
+Preview: https://imgur.com/a/2zq88tW
+
 Functionality:
 
 Provides a comprehensive front end for the vending model. All model capabilities are available through the front end
